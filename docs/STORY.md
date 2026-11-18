@@ -79,3 +79,60 @@ The front of Alan's house and his lawn.
 
 ### Still Open
 - Rival (decide later)
+
+---
+
+## Fighter #2: Tasha
+
+### Bio
+- **Age:** 32
+- **Who she is:** an ER nurse who works night shifts. Takes kickboxing classes twice a week. Always exhausted, zero patience.
+- **Fighting style:** fast, sharp, efficient kickboxing — a rushdown fighter who wants to be in your face.
+
+### Look
+- African American, 32, athletic build
+- Purple scrubs
+- High natural puff
+- Stethoscope around her neck
+- Black kickboxing gloves
+- White sneakers
+- **Signature color:** purple
+
+### Special Moves
+| Move | Range | Description |
+|---|---|---|
+| **Night Shift Flurry** | Close | Fast burst of kickboxing strikes. |
+| **Scrub Rush** | Dash | Quick dash across the screen into a knee strike — how she gets past keep-away fighters. |
+| **Clipboard Toss** | Short | Fast, low-damage projectile meant to interrupt, not outrange. |
+
+Plus shared basics.
+
+### Finishers
+- **VIOLATION! — "Discharged":** Tasha slaps a hospital wristband on the opponent, drops them into a wheelchair, and roundhouse-kicks it off-screen. Crash sound.
+- **NEIGHBORLY! — "Check-Up":** She checks their pulse, gives a thumbs-up, and hands them a lollipop.
+
+### Stats (1–5)
+| Speed | Power | Range | Defense | Health |
+|---|---|---|---|---|
+| 5 | 2 | 2 | 3 | 3 |
+
+**Playstyle:** rushdown. Wins by staying on top of you and stringing hits together.
+
+### Intro — "The Yawn"
+Big stretch and yawn, then snaps into her fighting stance.
+
+### Win Pose — "Clocked Out"
+Checks her watch, walks off-screen waving over her shoulder: **"My shift's over."**
+
+### Taunt — "The Pulse Check"
+Taps two fingers on her wrist, shakes her head: **"Still slow."**
+
+### Home Stage — Her Driveway at Dawn
+Orange/pink sunrise sky, her car in the driveway, a silver foil-covered bedroom window, a neighbor silhouette pushing a mower in the background.
+
+### Wish & Ending
+- **Wish:** to sleep as long as she likes.
+- **Ending:** The HOA grants it. Tasha draws the foil curtains and finally sleeps — deep, peaceful, nothing to wake her. She wakes, stretches, checks her phone: it's 20 years later. 4,000 missed calls from the hospital. Her scrubs don't fit. She doesn't recognize a single house on the street. She yawns, rolls over, and goes back to sleep.
+
+### Still Open
+- Rival (decide later)
