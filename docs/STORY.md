@@ -7,6 +7,7 @@ A Mortal Kombat–style 1v1 arcade fighter starring **real, normal, everyday peo
 - **Tone:** comedy, cartoon violence (no gore)
 - **Naming rule:** first names only — no last names for any fighter
 - **Animation rule:** 16-bit pixel art — big body gestures, no subtle facial expressions
+- **Rivals:** not a standard feature. Fighters don't automatically get a rival; only add one if a character's story naturally calls for it.
 
 ## Premise: Community Resolution Day
 Every year, the neighborhood HOA holds **Community Resolution Day** — a fighting tournament between residents.
@@ -77,9 +78,6 @@ Waves both hands at the opponent like chasing a dog off the lawn: **"Shoo! Shoo!
 ### Home Stage
 The front of Alan's house and his lawn.
 
-### Still Open
-- Rival (decide later)
-
 ---
 
 ## Fighter #2: Tasha
@@ -133,6 +131,3 @@ Orange/pink sunrise sky, her car in the driveway, a silver foil-covered bedroom 
 ### Wish & Ending
 - **Wish:** to sleep as long as she likes.
 - **Ending:** The HOA grants it. Tasha draws the foil curtains and finally sleeps — deep, peaceful, nothing to wake her. She wakes, stretches, checks her phone: it's 20 years later. 4,000 missed calls from the hospital. Her scrubs don't fit. She doesn't recognize a single house on the street. She yawns, rolls over, and goes back to sleep.
-
-### Still Open
-- Rival (decide later)
