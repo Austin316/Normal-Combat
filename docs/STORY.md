@@ -6,6 +6,7 @@ A Mortal Kombat–style 1v1 arcade fighter starring **real, normal, everyday peo
 - **Art style:** pixel art / retro
 - **Tone:** comedy, cartoon violence (no gore)
 - **Naming rule:** first names only — no last names for any fighter
+- **Animation rule:** 16-bit pixel art — big body gestures, no subtle facial expressions
 
 ## Premise: Community Resolution Day
 Every year, the neighborhood HOA holds **Community Resolution Day** — a fighting tournament between residents.
@@ -55,10 +56,26 @@ Plus shared basics: high/low punch, high/low kick, block, jump, crouch, sweep, u
 - **Wish:** to spread his lawn across the entire neighborhood.
 - **Ending:** The HOA grants it. Overnight, every yard, fence line, and even the clubhouse floor becomes one endless, perfect Alan lawn. He stands in the middle of it at sunrise, finally at peace... then looks down at his push mower. Then out at hundreds of acres of grass.
 
+### Stats (1–5)
+| Speed | Power | Range | Defense | Health |
+|---|---|---|---|---|
+| 2 | 4 | 5 | 2 | 3 |
+
+**Playstyle:** keep-away. Strong at distance (Hose Lasso, Weed and Feed), vulnerable up close. Beginner-friendly.
+
+### Intro — "The Inspection"
+Alan crouches and pats the ground.
+- **On his lawn:** stands and points at the opponent's feet.
+- **Any other stage:** stands and throws both hands in the air.
+
+### Win Pose — "The Rake Plant"
+Stabs the rake into the ground, leans on it, points at the camera: **"Now THAT'S curb appeal."**
+
+### Taunt — "The Shoo"
+Waves both hands at the opponent like chasing a dog off the lawn: **"Shoo! Shoo!"**
+
+### Home Stage
+The front of Alan's house and his lawn.
+
 ### Still Open
-- Rival
-- Stats (speed / power / range)
-- Round intro
-- Win pose & quote
-- Taunt
-- Home stage
+- Rival (decide later)
